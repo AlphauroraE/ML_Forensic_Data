@@ -8,3 +8,4 @@ The second part of this assignment works with data from the [MAGIC Gamma Telesco
 
 Next steps:
 - I anticipate kNN and the two SVM models to be easy to implement. Review LDA.
+- Remember to use Cross-validation for hyperparameter selection
